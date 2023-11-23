@@ -1,6 +1,7 @@
 .u-section-1 .u-sheet-1 {
   min-height: 225px;
-}.u-block-56e1-2 {
+}
+.u-block-56e1-2 {
   position: relative;
   bottom: 10px;
 }
@@ -54,6 +55,7 @@
 @media (max-width: 1199px) {
   .u-section-2-1 .u-image-1 {
     margin-top: -461px;
+    width: 300px;
   }
 
   .u-section-2-1 .u-text-1 {
