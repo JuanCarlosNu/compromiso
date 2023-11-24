@@ -63,6 +63,10 @@ width: 100%;
 .sep{
   margin-left: 10px;
 }
+.button_container{
+  display: flex;
+  justify-content: center;
+}
 
 /*responsive section*/
 
