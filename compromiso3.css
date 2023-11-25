@@ -4,6 +4,10 @@
 .compromiso_heading{
   background-color: white;
 }
+.compromiso_main_title{
+  display: inline;
+  border-bottom: 5px solid rgb(42, 42, 198);
+}
 
 .flex_container{
  display: flex;
