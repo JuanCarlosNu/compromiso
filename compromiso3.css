@@ -71,6 +71,10 @@ width: 100%;
   justify-content: center;
   align-items: center;
 }
+.u-absolute-vcenter {
+  transform: translateY(-60%);
+  top: 60% !important;
+}
 
 /*responsive section*/
 
@@ -85,6 +89,10 @@ width: 100%;
     font-size: 1rem;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.u-absolute-vcenter {
+  transform: translateY(-50%);
+  top: 50% !important;
 }
 
 
