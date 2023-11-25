@@ -12,6 +12,9 @@
   height: 436px;
 display:block
 } 
+.img_container{
+ ;
+}
 .point {
   display: flex;
  text-align:start;
@@ -61,6 +64,13 @@ width: 100%;
 
 
 .u-section-2-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  
+}
+.u-section-2-2 .u-btn-1 {
   background-image: none;
   border-style: solid;
   text-transform: uppercase;
